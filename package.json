@@ -1,0 +1,19 @@
+{
+  "name": "website-template-egg",
+  "version": "1.0.0",
+  "description": "网站模板",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.23.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.13.1"
+  }
+}
